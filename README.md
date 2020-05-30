@@ -3,6 +3,8 @@
 ## APP Link
 ### https://header-parser-sd.glitch.me/
 
+refresh page is theres loading or server error
+
 ### Overview:
 
 - Get the IP address, preferred languages and system info for your device.
