@@ -1,4 +1,4 @@
-# API Project: Request Header Parser Microservice for freeCodeCamp
+# Request-Header Parser API
 
 ## APP Link
 ### https://header-parser-sd.glitch.me/
