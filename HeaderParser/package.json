@@ -1,0 +1,26 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "Request-header parser microservice, which displays client's ip, browser languages and browser info",
+  "author": "Soumyadeepta Das",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0-alpha.2",
+    "cors": "^2.8.1",
+    "express-useragent": "^1.0.12"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express",
+    "header parser",
+    "Soumyadeepta Das"
+  ],
+  "license": "MIT"
+}
