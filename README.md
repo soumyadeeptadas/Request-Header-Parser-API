@@ -1,5 +1,5 @@
 # Request-Header Parser API
-
+returns IP address, browser languages and browser info of the client,made using NodeJs and Express
 ## APP Link
 ### https://header-parser-sd.glitch.me/
 
